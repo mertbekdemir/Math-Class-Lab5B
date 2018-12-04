@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Math
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Math\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=int\ divide(int,\ int)
+comment1.text=\r\n\ @param\ x\ this\ parameter\ is\ the\ value\ of\ x\r\n\ @param\ y\ \r\n\ @return\ returns\ x\ divided\ by\ y\ but\ if\ y\=\=0,\ print\ error\ and\ return\ zero\r\n
+comment2.params=x\ y
+comment2.target=int\ max(int,\ int)
+comment2.text=\r\n\ @param\ x\ \r\n\ @param\ y\r\n\ @return\ returns\ the\ bigger\ number\:\ x\ or\ y\ \r\n
+comment3.params=x\ y
+comment3.target=int\ remainder(int,\ int)
+comment3.text=\r\n\ @param\ x\r\n\ @param\ y\r\n\ @return\ returns\ the\ remainder\ when\ x\ is\ divided\ by\ y\ but\ if\ y\ \=\=\ 0\ print\ error\ and\ return\ zero\r\n
+comment4.params=x
+comment4.target=int\ triple(int)
+comment4.text=\r\n\ @param\ x\r\n\ @return\ returns\ x\ times\ 3\r\n
+comment5.params=operation
+comment5.target=boolean\ isValidOperation(java.lang.String)
+comment5.text=\r\n\ @param\ operation\r\n\ @return\ returns\ true\ if\ the\ operation\ is\ any\ of\ "*","/","%","+","-";\ otherwise\ false.\r\n
+numComments=6
